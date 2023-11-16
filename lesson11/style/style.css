@@ -484,4 +484,7 @@ margin: 39px 68px 65px 47px;
 .main__wrap {
   padding: 64px 40px 64px 40px;
 }
+.abstractClass {
+  padding: 10px;
+}
 }
